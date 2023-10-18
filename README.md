@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## Contact 
 <div> 
   <a href="[https://www.linkedin.com/in/ericagrundy](https://www.linkedin.com/in/emily-bartlett-533903a1/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </br>
 </br>
  
   ![Snake animation](https://github.com/emybart415/emybart415/blob/output/github-contribution-grid-snake.svg)
